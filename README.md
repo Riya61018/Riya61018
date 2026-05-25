@@ -47,10 +47,6 @@ Curated portfolio of projects, skills, and developer journey
 
 # 🚀 Projects
 
-✨ MERN Full Stack Applications  
-✨ REST API Projects  
-✨ AWS Cloud Projects  
-✨ Portfolio Websites
 
 ---
 
