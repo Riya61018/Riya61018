@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-Curated portfolio of projects, skills, and developer journey
+My portfolio
 </p>
 
 <br>
