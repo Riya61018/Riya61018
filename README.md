@@ -32,12 +32,6 @@ My portfolio
 </p>
 
 ---
-
-# 🚀 Projects
-
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
