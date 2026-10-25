@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RiyaPatil&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/RiyaPatil?style=for-the-badge&color=4CAFEE&logo=github&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=Riya61018&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Riya61018?style=for-the-badge&color=4CAFEE&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -51,16 +51,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RiyaPatil&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=4CAFEE&text_color=C9D1D9&ring_color=6C63FF" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya61810&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Riya61018&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=4CAFEE&text_color=C9D1D9&ring_color=6C63FF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya61018&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RiyaPatil&hide_border=true&background=0D1117&ring=6C63FF&fire=4CAFEE&currStreakLabel=4CAFEE&sideLabels=6C63FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+  <img src="https://streak-stats.demolab.com/?user=Riya61018&hide_border=true&background=0D1117&ring=6C63FF&fire=4CAFEE&currStreakLabel=4CAFEE&sideLabels=6C63FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiyaPatil&bg_color=0D1117&color=6C63FF&line=4CAFEE&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riya61018&bg_color=0D1117&color=6C63FF&line=4CAFEE&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RiyaPatil&theme=tokyonight&row=1&column=6&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Riya61018&theme=tokyonight&row=1&column=6&margin-w=10" />
 </p>
 
 ---
@@ -79,7 +79,7 @@
   <a href="https://linkedin.com/in/your-linkedin-id">
     <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/RiyaPatil">
+  <a href="https://github.com/Riya61018">
     <img src="https://img.shields.io/badge/GitHub-4CAFEE?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:patilriyasuresh@gmail.com">
