@@ -1,26 +1,24 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141414,50:B20710,100:E50914&height=230&section=header&text=RIYA%20PATIL&fontSize=64&fontColor=ffffff&fontAlign=50&fontAlignY=42&desc=A%20MERN%20%26%20Cloud%20Developer%20Original&descAlignY=66&descSize=20&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,60:B20710,100:E50914&height=230&section=header&text=Riya%20Patil&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20and%20Cloud%20Developer&descAlignY=58&descSize=20" alt="Riya Patil banner" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=E50914&center=true&vCenter=true&width=650&lines=%E2%96%B6+Now+Streaming%3A+Riya+Patil;B.Tech+IT+%40+VIT+Pune+%7C+CGPA+8.8;Full-Stack+%7C+AWS+%7C+ML+%7C+GenAI;Built+a+Random+Forest+model+with+90%25+accuracy" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=E50914&center=true&vCenter=true&width=800&height=40&lines=Hi%2C+I'm+Riya+Patil;B.Tech+IT+at+VIT+Pune;Full-Stack+%7C+AWS+%7C+ML+%7C+GenAI;Building+secure+backends+and+AI+apps" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GENRE-FULL%20STACK-E50914?style=for-the-badge&labelColor=141414" />
-  <img src="https://img.shields.io/badge/RELEASE-CLASS%20OF%202027-E50914?style=for-the-badge&labelColor=141414" />
+  <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-E50914?style=for-the-badge&labelColor=141414" />
+  <img src="https://img.shields.io/badge/BATCH-2027-E50914?style=for-the-badge&labelColor=141414" />
   <img src="https://img.shields.io/badge/CGPA-8.8%2F10-E50914?style=for-the-badge&labelColor=141414" />
   <img src="https://komarev.com/ghpvc/?username=Riya61018&label=VIEWS&color=E50914&style=for-the-badge&labelColor=141414" />
 </p>
 
 ---
 
-## 🎬 SYNOPSIS
+## 👩‍💻 About Me
 
 > **B.Tech IT student at Vishwakarma Institute of Technology, Pune (2023 to 2027, CGPA 8.8/10).**
-> Builds secure backends, AI-powered apps and ML models. Interned at a German cybersecurity company, shipped a research-grade ML platform, and loves turning ideas into working products.
+> I build secure backends, AI-powered apps and ML models. I interned at a German cybersecurity company, built an ML research platform, and love turning ideas into working products.
 
 📍 Pune, Maharashtra, India  
 🎓 B.Tech Information Technology, VIT Pune  
@@ -29,13 +27,13 @@
 
 ---
 
-## 🔥 TOP SKILLS
+## ⚡ Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,express,tailwind,mongodb,mysql,aws,git,github,postman&theme=dark" />
 </p>
 
-| 🎞️ Category | 📺 Stack |
+| Category | Stack |
 |---|---|
 | **Languages** | Java, Python, SQL, JavaScript, HTML, CSS |
 | **Frameworks** | React.js, Node.js, Express.js, Tailwind CSS |
@@ -45,15 +43,15 @@
 
 ---
 
-## 🍿 CONTINUE WATCHING: EXPERIENCE
+## 💼 Experience
 
-### 🎥 Sponsored Project Intern, **Arkcore, Germany**
+### Sponsored Project Intern, **Arkcore, Germany**
 `Aug 2025 – Dec 2025`
 - Built a **data ingestion pipeline** collecting threat intelligence from news sites, Telegram channels, security feeds and public sources.
 - Cleaned and processed large structured and unstructured datasets with **Python**.
 - Managed aggregated data in **MongoDB** with indexing strategies for fast retrieval.
 
-### 🎥 ML Research Project Developer, **Major Project (VIT Pune)**
+### ML Research Project Developer, **Major Project (VIT Pune)**
 `Jan 2026 – May 2026`
 - Built a full-stack **Methane Prediction Platform** for anaerobic digestion systems.
 - Trained a **Random Forest model with 90% accuracy** using COD, OLR, C/N ratio, temperature, pH, HRT and processing time.
@@ -61,7 +59,7 @@
 
 ---
 
-## 📈 TRENDING NOW: PROJECTS
+## 🚀 Projects
 
 <table>
 <tr>
@@ -106,7 +104,7 @@
 
 ---
 
-## 🏆 AWARDS & RECOGNITION
+## 🏆 Achievements
 
 - 🥈 **2nd Place**, Ideathon Competition, for innovative problem-solving
 - 💻 **National Hackathon** participant, built a working solution under time pressure
@@ -117,7 +115,7 @@
 
 ---
 
-## 📊 VIEWING STATS
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Riya61018&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=141414&title_color=E50914&icon_color=E50914&text_color=FFFFFF&ring_color=E50914" />
@@ -134,7 +132,7 @@
 
 ---
 
-## 📬 CONTACT: START A NEW SERIES
+## 📬 Contact
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin-id">
@@ -152,9 +150,5 @@
 </p>
 
 <p align="center">
-  <b>▶ Skip Intro? Never. Let's build something together.</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E50914,50:B20710,100:141414&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E50914,40:B20710,100:141414&height=100&section=footer" alt="footer" />
 </p>
